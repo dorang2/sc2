@@ -4,8 +4,8 @@
      "Username": "dorang1",
      "Password": "junetzX8588"
      },
- "Target Profit": "0.5",
- "Target Win": "2500",
+ "Target Profit": "25",
+ "Target Win": "5500",
  "Lose Target": "0",
  "Reset If Target Profit": "ON",
  "Reset If Target Win": "OFF",
@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "2",
-     "Base Bet": "0.05010",
+     "Base Bet": "0.005010",
      "Max Bet": "OFF",
      "Chance": "5",
      "Random Chance": {
