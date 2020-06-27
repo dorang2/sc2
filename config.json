@@ -1,0 +1,95 @@
+{
+
+ "Account": {
+     "Username": "dorang1",
+     "Password": "junetzX8588"
+     },
+ "Target Profit": "0.5",
+ "Target Win": "2500",
+ "Lose Target": "0",
+ "Reset If Target Profit": "ON",
+ "Reset If Target Win": "OFF",
+ "Interval": "10",
+ "Config": [{
+
+     "Name Bet Set": "2",
+     "Base Bet": "0.05010",
+     "Max Bet": "OFF",
+     "Chance": "5",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "17.15",
+          "Max": "25.05"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.2867",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.1",
+     "Interval": "10"
+     },{
+
+     "Name Bet Set": "1",
+     "Base Bet": "0.05",
+     "Max Bet": "OFF",
+     "Chance": "45",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "17.25",
+          "Max": "25.10"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "2",
+              "If Win": "5"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.272",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.1",
+     "Interval": "12"
+     },{
+
+     "Name Bet Set": "3",
+     "Base Bet": "0.05",
+     "Max Bet": "OFF",
+     "Chance": "40",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "17.55",
+          "Max": "25.65"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "5"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.258",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.1",
+     "Interval": "10"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "500",
+       "Wallet Address": "",
+       "Amount": "500"
+      },
+  "User-Agent": "Android Phone / Chrome 55 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
