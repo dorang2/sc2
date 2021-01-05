@@ -3,7 +3,7 @@
 u="y"
 while [ $u = "y" ]
 do
-   python dc2.py
+   python3 ab_dec.py
 
 sleep 3
 done
